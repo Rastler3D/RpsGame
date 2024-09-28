@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Game": {
+      "commandName": "Project",
+      "commandLineArgs": "Rock Paper Sciessor A B C D\r\n"
+    }
+  }
+}
